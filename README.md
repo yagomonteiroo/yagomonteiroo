@@ -31,7 +31,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco pela o
 
 ## :2nd_place_medal: Badges
 <div>
-  <img src="./imgs/Badge One.png" alt="ONE- Oracle Next Education" width="40%"/>
+  <img src="./imgs/Badge One.png" alt="ONE- Oracle Next Education" width="150px"/>
 </div>
 
 
