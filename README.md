@@ -2,7 +2,7 @@
 
 # Fala, pessoal! :call_me_hand:
 
-<p>Eu sou  Yago, tenho 31 anos e iniciei recentemente um processo de transição de carreira da área de comunicação para a de tecnologia. 
+<p>Eu sou o Yago Monteiro, tenho 31 anos e iniciei recentemente um processo de transição de carreira da área de comunicação para a de tecnologia. 
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco pela oportunidade de estagiar/ingressar na área de front-end, entretanto, tenho por objetivo me tornar um profissional fullstack.
 
