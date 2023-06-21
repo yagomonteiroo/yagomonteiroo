@@ -1,4 +1,6 @@
-<img src="https://github.com/yagomonteiroo/yagomonteiroo/assets/83723729/18c5ff9c-4b3e-4465-a78f-0e37df35bf0f" width="400 "  align="left"/>
+
+<!-- <img src="https://github.com/yagomonteiroo/yagomonteiroo/assets/83723729/18c5ff9c-4b3e-4465-a78f-0e37df35bf0f" width="400 "  align="left"/> -->
+<img src="https://github.com/yagomonteiroo/yagomonteiroo/assets/83723729/86c86b06-95b0-4ca2-a2dd-75fc94dcb7fb" width="400 "  align="left"/>
 
 # Fala, pessoal! :call_me_hand:
 
