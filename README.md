@@ -44,5 +44,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco pela o
 
 
 ## :email: Meus contatos
-<a href="mailto:yago.monteiroo@gmail.com">  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  </a>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagomonteiro/)
+<a href="mailto:yago.monteiroo@gmail.com">  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  </a>
+
