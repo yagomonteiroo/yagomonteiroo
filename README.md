@@ -7,12 +7,10 @@
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco pela oportunidade de estagiar/ingressar na área de front-end, entretanto, tenho por objetivo me tornar um profissional fullstack.</p>
 
 <div>
- <img src="https://github.com/yagomonteiroo/yagomonteiroo/assets/83723729/a5c9f6d0-21a1-44da-84bb-de59945cfdf5" height="30" align="left"/>
- 
   <a href="https://github.com/yagomonteiroo">
    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagomonteiroo&layout=compact&langs_count=16&theme=dracula"/>
   </a>
-  </div>
+</div>
 
 
 
