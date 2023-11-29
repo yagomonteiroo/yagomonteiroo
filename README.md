@@ -3,8 +3,8 @@
 <img src="https://github.com/yagomonteiroo/yagomonteiroo/assets/83723729/86c86b06-95b0-4ca2-a2dd-75fc94dcb7fb" width="400 "  align="left"/>
 
 # Fala, pessoal! :call_me_hand:
-<p>Eu sou o Yago Monteiro, tenho 31 anos e iniciei recentemente um processo de transição de carreira da área de comunicação para a de tecnologia. 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco pela oportunidade de estagiar/ingressar na área de front-end. Entretanto, tenho por objetivo me tornar um profissional fullstack no futuro.</p>
+<p>Eu sou o Yago Monteiro, tenho 31 anos e recentemente iniciei um processo de transição de carreira da área de comunicação para a de tecnologia. 
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco uma oportunidade de estagio/ingresso nessa área. Tenho a intenção de me tornar um profissional em T no futuro, com habilidades e conhecimentos em Back-End, Front-End e garantia de qualidade (QA).
 
 <div>
   <a href="https://github.com/yagomonteiroo">
