@@ -28,9 +28,9 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco uma op
 ## :books: Estou estudando
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width=40px alt="MongoDB"/> ㅤ
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=32px alt="Express"/> ㅤ
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width=32px alt="Express"/> ㅤ
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=43px alt="React"/> ㅤ
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=45px alt="Node"/> ㅤ
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width=45px alt="Node"/> ㅤ
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width=46px alt="Postegresql"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=50px alt="Java" />
 </div>
