@@ -32,6 +32,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco uma op
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=43px alt="React"/> ㅤ
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=45px alt="Node"/> ㅤ
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width=46px alt="Postegresql"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 <br>
 
