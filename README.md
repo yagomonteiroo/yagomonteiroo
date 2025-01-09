@@ -1,11 +1,14 @@
-
+         
 <!-- <img src="https://github.com/yagomonteiroo/yagomonteiroo/assets/83723729/18c5ff9c-4b3e-4465-a78f-0e37df35bf0f" width="400 "  align="left"/> -->
 
-<img src="https://github.com/yagomonteiroo/yagomonteiroo/assets/83723729/86c86b06-95b0-4ca2-a2dd-75fc94dcb7fb" width="400 " margin-top=".5rem" align="left"/>
+<h1> ㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤFala, pessoal! :call_me_hand:</h1>
 
-# Fala, pessoal! :call_me_hand:
+
+<img src="https://github.com/yagomonteiroo/yagomonteiroo/assets/83723729/86c86b06-95b0-4ca2-a2dd-75fc94dcb7fb" width="450"  align="left"/>
+
 <p>Eu sou o Yago Monteiro, tenho 31 anos e recentemente iniciei um processo de transição de carreira da área de comunicação para a de tecnologia. 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco uma oportunidade de estagio/ingresso nessa área. Tenho a intenção de me tornar um profissional em T no futuro, com habilidades e conhecimentos em Back-End, Front-End e garantia de qualidade (QA).
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco por oportunidades nessa área. Tenho a intenção de me tornar um profissional em T; com habilidades em Back-End, Front-End e garantia de qualidade (QA).
+
 
 <div>
   <a href="https://github.com/yagomonteiroo">
@@ -13,16 +16,21 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco uma op
   </a>
 </div>
 
+<br>
 
-
-## :computer: Ferramentas e tecnologias
 <div>
+ <h2> :computer: Ferramentas e tecnologias </h2>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=40px alt="HTML5"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=40px alt="CSS3"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40px alt="JavaScript"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=40px alt="Figma"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40px alt="Git"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=40px alt="GitHub"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width=40px alt="Gitlab"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width=40px alt="Cypress"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"  width=40px alt="Playwright"/>
+                       
+  
 </div>
 <br>
 
