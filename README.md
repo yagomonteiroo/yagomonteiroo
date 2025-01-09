@@ -4,7 +4,7 @@
 <h1> ㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤFala, pessoal! :call_me_hand:</h1>
 
 
-<img src="https://github.com/yagomonteiroo/yagomonteiroo/assets/83723729/86c86b06-95b0-4ca2-a2dd-75fc94dcb7fb" width="450"  align="left"/>
+<img src="https://github.com/yagomonteiroo/yagomonteiroo/assets/83723729/86c86b06-95b0-4ca2-a2dd-75fc94dcb7fb" width="400"  align="left"/>
 
 <p>Eu sou o Yago Monteiro, tenho 31 anos e recentemente iniciei um processo de transição de carreira da área de comunicação para a de tecnologia. 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco por oportunidades nessa área. Tenho a intenção de me tornar um profissional em T; com habilidades em Back-End, Front-End e garantia de qualidade (QA).
