@@ -7,16 +7,16 @@
 <!-- Texto animado -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=74C7EC&center=true&vCenter=true&width=520&lines=QA+%7C+Quality+Assurance;Testes+de+Software;Testes+E2E+%7C+Cypress+%26+Playwright;Apaixonado+por+qualidade!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=74C7EC&center=true&vCenter=true&width=520&lines=QA+Analyst+%7C+Quality+Assurance;Testes+de+Software;Testes+E2E+%7C+Cypress+%26+Playwright;Conectando+tecnologia+e+qualidade!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Analista de QA Júnior**, com foco em **qualidade de software, testes funcionais, regressão e testes End-to-End**.
+Sou **Analista de QA Júnior**, atuando com **testes funcionais, exploratórios, regressão e End-to-End**, além da validação de aplicações web e identificação de problemas ao longo do ciclo de desenvolvimento.
 
-Tenho interesse em automação de testes e estou constantemente buscando evoluir meus conhecimentos em **QA, automação e engenharia de software**.
+Atualmente, estou aprofundando meus conhecimentos em **automação de testes**, buscando evoluir principalmente em **Cypress, Playwright e práticas de QA**, enquanto amplio minha base em **engenharia de software**.
 
 ---
 
@@ -27,7 +27,8 @@ Tenho interesse em automação de testes e estou constantemente buscando evoluir
 * 🌐 Testes End-to-End (E2E)
 * 🤖 Automação com **Cypress** e **Playwright**
 * 🔌 Testes de API
-* 🐞 Análise e documentação de bugs
+* 🖥️ Validação de aplicações web
+* 🐞 Identificação e documentação de bugs
 
 ---
 
@@ -55,7 +56,7 @@ Tenho interesse em automação de testes e estou constantemente buscando evoluir
 
 ### 📚 Atualmente estudando
 
-**Playwright • CI/CD • Automação de testes • E2E • Boas práticas de QA**
+**Playwright • CI/CD • Arquitetura de testes • Automação E2E • Boas práticas de QA**
 
 ---
 
@@ -69,8 +70,6 @@ Tenho interesse em automação de testes e estou constantemente buscando evoluir
     <img src="https://img.shields.io/badge/Email-A6E3A1?style=for-the-badge&logo=gmail&logoColor=1e1e2e" />
   </a>
 </p>
-
----
 
 <!-- Footer Catppuccin Mocha -->
 
